@@ -1,3 +1,6 @@
-<h1>Hello world!</h1>
+<?php
 
-<?php phpinfo(); ?>
+echo "h1>Hello world!</h1>\n\n";
+
+
+phpinfo(); ?>
